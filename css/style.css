@@ -76,7 +76,8 @@ input[type="submit"]{
 
 .picture{    
     width: 160px;
-    height: 200px;    
+    height: 200px;  
+    border-radius: 5px;  
 }
 
 footer{
